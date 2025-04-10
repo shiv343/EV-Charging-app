@@ -16,7 +16,7 @@ export default function Header() {
     >
       <Image
         source={{ uri: user?.imageUrl }}
-        style={{ width: 45, height: 45, borderRadius: 99, marginTop: 10 }}
+        style={{ width: 45, height: 45, borderRadius: 99, marginTop: 'auto' }}
       />
       <Image
         source={require("./../../../assets/images/logo2.png")}

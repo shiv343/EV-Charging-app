@@ -9,6 +9,7 @@ import { NavigationContainer } from "@react-navigation/native";
 import TabNavigation from "./App/Screen/Navigations/TabNavigation";
 import * as Location from "expo-location";
 import { UserLocationContext } from "./App/Context/UserLocationContext";
+import 'react-native-get-random-values';
 
 SplashScreen.preventAutoHideAsync();
 
