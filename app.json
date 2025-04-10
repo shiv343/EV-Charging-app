@@ -26,10 +26,12 @@
     },
     "plugins": [
       "expo-font",
+      [
       "expo-location",
       {
         "locationAlwaysAndWhenInUsePermission": "Allow EV Charge to use your location."
       }
+      ]
     ]
   }
 }
