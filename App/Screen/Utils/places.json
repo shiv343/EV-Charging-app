@@ -1,0 +1,664 @@
+{
+    "places": [
+        {
+            "formattedAddress": "VPO - Jabli, NH-22, Teh- Kasauli, Solan, Himachal Pradesh Teh, Kasauli, Jabli, Himachal Pradesh 173204, India",
+            "displayName": {
+                "text": "Savoy Greens, Jabli",
+                "languageCode": "en"
+            },
+            "photos": [
+                {
+                    "name": "places/ChIJNZMEdq6IDzkR9eOa_t140gw/photos/AeeoHcIECPp9BVthLYTtXaRppQoh0PJ8NGKMn_zwCMZbXrs3K8jbcG-mH0Am-CuGQ_0ZZxzScilv4OgKnI2Llp5nEpkTVL1xauLEwfr3hSmM5kj6lBxrHq-GIVIulWmi4D_OeFyj58Q8QFUPoqOEoPk8n9vk2bh2PkXkcEnTcvayt3awMtuqnxczDSp5M-SiW0kh_94PtMzvLfIMUBY-eltg4NrOYsym30Z_TNctwDA6QYIfgolIU87r76ir1W1gF70ppc8aRHrv5jbIf7RATFaNzinSli1f9RzvKWdJ7MiWl_1myg",
+                    "widthPx": 4800,
+                    "heightPx": 3269,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Savoy Greens, Jabli",
+                            "uri": "https://maps.google.com/maps/contrib/103054849457473997479",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUVFFwBrL_Jtw1bXR8Gd_hHOfga_CuuU3Kg20abUlBdIXLXnbNr=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNxGddvFl7W2M2EKSgQiEApLxHWx1025dmc90Kz&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNxGddvFl7W2M2EKSgQiEApLxHWx1025dmc90Kz!2e10!4m2!3m1!1s0x390f88ae76049335:0xcd278ddfe9ae3f5"
+                },
+                {
+                    "name": "places/ChIJNZMEdq6IDzkR9eOa_t140gw/photos/AeeoHcI1VMovcoZJVVFb9s-t28pJx2YBw5MBEAUctBTlsgwTB-KzGV8Dx3tY02hxIDXdJIeZrkhlQeKt-xx_0_E65uDY-VVkkDO6t3Uq0eZrPmEUckfh-z_dCXsHrW39LhgwEX2uDtX0Qy6AsX4sAha9wwyAO4ySEAn0Q7HmBic37efYkNbmY12IM6EIkRBdeNX0KYAxdNIsFJF-W23XylBEIaoq0IRsLqOnD844NXVTywlMG09-AzOYlDf9TS_DIGqj1P2gJn6kjM6IQZmKTuHGTI3aSmlXohLkHpNoiP0vxHwzgA",
+                    "widthPx": 640,
+                    "heightPx": 428,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Savoy Greens, Jabli",
+                            "uri": "https://maps.google.com/maps/contrib/103054849457473997479",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUVFFwBrL_Jtw1bXR8Gd_hHOfga_CuuU3Kg20abUlBdIXLXnbNr=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPtJforVRPeJWHOvfqeKikv3_ueEd3wMjIJSBvc&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPtJforVRPeJWHOvfqeKikv3_ueEd3wMjIJSBvc!2e10!4m2!3m1!1s0x390f88ae76049335:0xcd278ddfe9ae3f5"
+                },
+                {
+                    "name": "places/ChIJNZMEdq6IDzkR9eOa_t140gw/photos/AeeoHcLjfSxI8yTDi1zF6rjuwrMAHGqrisTrPyk9ienO-sIIerPwvkZT76-ub5LYxMWHWCtf2WcKZaHKISxVXA_ZT7_Qlisi3KlDor2x00q4CTibqBol1ovNdYDs2iJJPItsK56hUHmfIK0liPaR07-lu6f5snKVLzoR5RuK0ab1WStSEcbtYh_chzr9SEz5Wew9piOCOSXEQ1IK7Fxlrv8LVHJ_VZuaUkIoYor76wY4hVczmiZgEOkT13wlZdSRwpnqiuHX5WJmKaNcSKFl0BvFBQ06Bd7pXUDvGuTPiUgKrAFRuQ",
+                    "widthPx": 640,
+                    "heightPx": 427,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Savoy Greens, Jabli",
+                            "uri": "https://maps.google.com/maps/contrib/103054849457473997479",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUVFFwBrL_Jtw1bXR8Gd_hHOfga_CuuU3Kg20abUlBdIXLXnbNr=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipNxhw_rkLE5AQEJfvOSlkqDehqgBpjskgBbAmCt&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipNxhw_rkLE5AQEJfvOSlkqDehqgBpjskgBbAmCt!2e10!4m2!3m1!1s0x390f88ae76049335:0xcd278ddfe9ae3f5"
+                },
+                {
+                    "name": "places/ChIJNZMEdq6IDzkR9eOa_t140gw/photos/AeeoHcKGJB8tZrbDkj7uPRDtDwhY4Pq5db6PLjD-qrI4Z4upNi_ID4_EXeRaBpMIuiYMi9L_25Rrn2KZtvMM2iohC9mZ8Z5BbXRnQRWGyAbjkl1LNhvgiRsffnrwK4BWPb98XmafmHqatssvKd9Rw6XWgPRObq9UjFonYfXCKRclqrLJmZGnxZs3fqEwBPJyRTlLfGvbG700Qii-cDnjcQEX_ZYtwreVTLzgXtfHkcqA8BG9S0wRKRpHiCeWSH7K6exwUTFjl98Ixp8EG8KRg2YtkRvk4L5hNJeSsSsVhsNOSCDMmQ",
+                    "widthPx": 640,
+                    "heightPx": 427,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Savoy Greens, Jabli",
+                            "uri": "https://maps.google.com/maps/contrib/103054849457473997479",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUVFFwBrL_Jtw1bXR8Gd_hHOfga_CuuU3Kg20abUlBdIXLXnbNr=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPS_sTAtce6P09ac6eaQIEhtDAOMPKzpy6sgOtA&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPS_sTAtce6P09ac6eaQIEhtDAOMPKzpy6sgOtA!2e10!4m2!3m1!1s0x390f88ae76049335:0xcd278ddfe9ae3f5"
+                },
+                {
+                    "name": "places/ChIJNZMEdq6IDzkR9eOa_t140gw/photos/AeeoHcIF5IoSJbevt5gZocaF4uStiEaVokPC4sNRlROfnn97AIdQHnwWeoMG8IZXk5NGYI6JhPQ9SO8Hg2pPKFPOUGlSMCOlKACuss-_-L_vqjj65bmqiTuojcG3awn7YOBie1bLd_grbwDXw5WfPnJjliFVIl0Kb3T6L6oer-HmU3HZf31ygSF9oZJaAlVR9mTIJDinc9kUo_kyJhAGxRSQq73jBebFChRjjgrOCFsLTNPQw-381pL7i20WTKMfCJE4idKRfY1QjG8rGEjF4Ihg-KUW313RxyoJ0QDQCPfWjaw4JA",
+                    "widthPx": 640,
+                    "heightPx": 427,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Savoy Greens, Jabli",
+                            "uri": "https://maps.google.com/maps/contrib/103054849457473997479",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUVFFwBrL_Jtw1bXR8Gd_hHOfga_CuuU3Kg20abUlBdIXLXnbNr=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipP_2GtCYds-3wkHz7RP_xN9QGeSd96TrRGwwHbo&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipP_2GtCYds-3wkHz7RP_xN9QGeSd96TrRGwwHbo!2e10!4m2!3m1!1s0x390f88ae76049335:0xcd278ddfe9ae3f5"
+                },
+                {
+                    "name": "places/ChIJNZMEdq6IDzkR9eOa_t140gw/photos/AeeoHcKMxatTWCuDWjQ03p6s19XTWiRc12NXxRNltBNJleHC3L3ZNGNYsiHpQBYy26Tg9yf1nhDdxj2_3QVRrGqYISN3-Leg8ZFtvvo7n3VSiQLX0nye4-CIclwO0xiXJSSmapvjO-2O3DFsp4tZjPERpReFCtYwCaEN4qEDtjC7NOgwL0f0diYTa7cwsEprW5UFmk1ijOs_93TMyG07LCpH2D4G9EFH__b_EPoK0z0cZT_nitteZwE7lL_gjB-ytHikpBIJ5Z3A6JsMK2hKUHzSzrr1ozGD4s04_OqK9pFjNb_iVQ",
+                    "widthPx": 640,
+                    "heightPx": 428,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Savoy Greens, Jabli",
+                            "uri": "https://maps.google.com/maps/contrib/103054849457473997479",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUVFFwBrL_Jtw1bXR8Gd_hHOfga_CuuU3Kg20abUlBdIXLXnbNr=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM_eEu2Kk4-GSq6VjzkxjDeo07MTCS6TrJK3--3&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM_eEu2Kk4-GSq6VjzkxjDeo07MTCS6TrJK3--3!2e10!4m2!3m1!1s0x390f88ae76049335:0xcd278ddfe9ae3f5"
+                },
+                {
+                    "name": "places/ChIJNZMEdq6IDzkR9eOa_t140gw/photos/AeeoHcL6XfP_lItMSY3Z2Ita4WdzpBbZjvgazWI4BnYEqvQ1tAjYcz4FP6bWVqqDqGdthD_OGFzmZIqaX7llE5jfn5-1lpKcUAwjNSFI3Z7wv2H2erTLBhhzjKdvCuVVVfRzEivZ0OXOKk41xy4sAKEPAfxj_rnn114d--USMNSjv099nr7QS8OnwrNsz2D12qm-7ACQrQjPFAkYtCdijfnSzW8gwQN9O4H6LUFmb4E8q1wWwv8oBVCcoTSpNAwoJQJkPT7mmOkFdKQYzkTegEFirevWABcxLPPC8MyO-twQvT2qww",
+                    "widthPx": 640,
+                    "heightPx": 427,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Savoy Greens, Jabli",
+                            "uri": "https://maps.google.com/maps/contrib/103054849457473997479",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUVFFwBrL_Jtw1bXR8Gd_hHOfga_CuuU3Kg20abUlBdIXLXnbNr=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMsaJAPux8pI1bGDlStGJurIHYgo9ASsVNFakwK&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMsaJAPux8pI1bGDlStGJurIHYgo9ASsVNFakwK!2e10!4m2!3m1!1s0x390f88ae76049335:0xcd278ddfe9ae3f5"
+                },
+                {
+                    "name": "places/ChIJNZMEdq6IDzkR9eOa_t140gw/photos/AeeoHcKc5Vfm119hSITTXc3Lam5nUG3HPc5Kl8Up_hfQJk-YQMfVqB-Lslo60E0XIFh9xSDQxvcYeJ3hC7jkloXR5KlmtZKvThfZVaL4uBhrVmoPEVSxAvty3k_g2yKGIOE1v3zl5LFxfgkkL3nX5fsr0I8IJl7MUdQ68XZ0bzaKms9JpgE_jXP8lzJWxe_YAw7JcZe9Pe__pUGE0C2dftEmlJvM5UwKrVcfDGR5kgNIF2EJhS2TGlJshMjxMRoMLxeoIZEmdHyt3sNWpn4hiwB5Ve0Gb8uq8RgZ5VDCdNtye3f6tw",
+                    "widthPx": 640,
+                    "heightPx": 427,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Savoy Greens, Jabli",
+                            "uri": "https://maps.google.com/maps/contrib/103054849457473997479",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUVFFwBrL_Jtw1bXR8Gd_hHOfga_CuuU3Kg20abUlBdIXLXnbNr=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPGxYAkWAUtlRDO1_lzHBYdBP0NgJen6wlydf30&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPGxYAkWAUtlRDO1_lzHBYdBP0NgJen6wlydf30!2e10!4m2!3m1!1s0x390f88ae76049335:0xcd278ddfe9ae3f5"
+                },
+                {
+                    "name": "places/ChIJNZMEdq6IDzkR9eOa_t140gw/photos/AeeoHcLrxlcFnew8swM0lWcIb8sdRiVXMOCZyoBwtq4uf4TsTwvK1Ec6tRzTjrdqGn7XCVgV628bPSoiU3qt4xSoIbWBFnzVua3AC97GvpdWJHiaenySQWPrZt8r0Nt2Og0OKF7e1uGa0-jMbRIpmll0QmiUjXC9q65s8dss-JnNmkBjbEd-TmduzUdbjNmk18EAimHRG2XuimcELiKnr4rbuSwEm47oMCh9Q8IkulD7nl0q31ri73dx-yZ_RQFu9KlfndiCahuY1G3NjZh4YELOR78ZGg6l4g2x4VXvJuAxx4OK1w",
+                    "widthPx": 640,
+                    "heightPx": 428,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Savoy Greens, Jabli",
+                            "uri": "https://maps.google.com/maps/contrib/103054849457473997479",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUVFFwBrL_Jtw1bXR8Gd_hHOfga_CuuU3Kg20abUlBdIXLXnbNr=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPH_A2whfRser9tmCvM8sYiFNdj_Dr-SpHRcky8&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPH_A2whfRser9tmCvM8sYiFNdj_Dr-SpHRcky8!2e10!4m2!3m1!1s0x390f88ae76049335:0xcd278ddfe9ae3f5"
+                },
+                {
+                    "name": "places/ChIJNZMEdq6IDzkR9eOa_t140gw/photos/AeeoHcLuOxPv18EJQHupBcP3KvYdBPzG6crlRwLRwZeNf_ZvjECDw6HoWaQZmXb0cC_T3bCCkiCmrj3V3ZTnh5qwpZhR2yUJ2hOOQpM-1YKRYHLvdqIi80Kf_dsLWNZyY-zth9X7Z-Ndt492IFoRwGwbPP9fK4ITs0omLigCU5uC5IMGbNNTaIsALWAdsUSCUdPVif-ZI9zhgcwcji0jymhacfhy0G8NjRRIK08d_IXoiLDlgVJRaebh_BNygLFlqtjK_ZNz7k6mRtwPuu65jeol-S-EJuY8nvTDbAh-9lYyuOXOxg",
+                    "widthPx": 640,
+                    "heightPx": 428,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Savoy Greens, Jabli",
+                            "uri": "https://maps.google.com/maps/contrib/103054849457473997479",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUVFFwBrL_Jtw1bXR8Gd_hHOfga_CuuU3Kg20abUlBdIXLXnbNr=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOmP6mXh3BaO3hU_uZtrdlT0LWo-E4hcOiZZ-7t&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOmP6mXh3BaO3hU_uZtrdlT0LWo-E4hcOiZZ-7t!2e10!4m2!3m1!1s0x390f88ae76049335:0xcd278ddfe9ae3f5"
+                }
+            ]
+        },
+        {
+            "formattedAddress": "G.T. Road, Shambhu, Tehsil: Rajpura, NH-44 (Old NH-1), District :, Rajpura, Shambhoo Khurd, Punjab 140417, India",
+            "displayName": {
+                "text": "Highway Services, BPCL Petrol Pump",
+                "languageCode": "en"
+            },
+            "photos": [
+                {
+                    "name": "places/ChIJK5NkTALFDzkR58rXeWDyR6A/photos/AeeoHcKQ2lOuEG3uwPpyr1UMc4ivuiZVl7f5dkVcaWW6EIy7QtcKQ3RJNL-tFqILotUMKiDKHr82LGB9msojUJ-qXjmPDJ0NK3x8rnIZnsJ9X4xp8B_eiLJXIF4aAS-QDXeKK9Pf-_UMiJ7khvtJi37ZoqTwHm9vViBdDdXYwxUk9TGDVD9n6c9CQ1Of5cW_DfRSJ6qoQM59ndiI9Zj_jcZx6BUjWanUK-2xMT11dCRF7X8Gvc6MSQ17cgq5w0ixi7I5UxaJT_4C1VVrPvdw7c9zz2nguhBpJ8Vf2FRvQFVV9u2haQ",
+                    "widthPx": 4800,
+                    "heightPx": 3200,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Highway Services, BPCL Petrol Pump",
+                            "uri": "https://maps.google.com/maps/contrib/111202713968656929289",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWCU9XxR4CVLiBddbqUbwVVvIbM1HoOmNfqjp82rIcvMlXebFKz=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipPOGliKRH_jMKEC3y8q8QJ6ehsd9nzteTP4IRl4&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipPOGliKRH_jMKEC3y8q8QJ6ehsd9nzteTP4IRl4!2e10!4m2!3m1!1s0x390fc5024c64932b:0xa047f26079d7cae7"
+                },
+                {
+                    "name": "places/ChIJK5NkTALFDzkR58rXeWDyR6A/photos/AeeoHcI8QLnfOVPCin4vfjsqzZZcXLZmMD6m49X4uZp3BZfNfwsgnULy58WjAAY9Rm6Ieg3Fw7iqOdCTGBKLQFxaOyQDsZJEhuDeRlJBxNUO4Kr-XgZ7FOreTc_5tLH0QXc9viYwzSlSLSAOQqJmgF3oS8KBR2ywNf16H_KS1AYXpHkWLzer-YrUKdWkCvIbQSPbZOc1swCIeKVNF28oEfWY0Z7NiNy3eveRnpoYoT1WtUVLZkVlmmz_6TeXN0QKBZpd7DF92J2Y-1Zhl7MjoWJ_hkD_yfbrUoh3tUeaSx3GGePOXuxHakqVQewQN56PHQfVOPZtswtkqjiJV3Zki69c7FFiQlNXmQLskOsI7j1o1FRQ830cxtc9tFV8f6sKvTh15oWmTDH9jOPD6hpkuX_kuE41_QUa60c5mDPvc0GghbGFGkXC",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Jaswant Singh",
+                            "uri": "https://maps.google.com/maps/contrib/105420759966919554865",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWT2uB_k98irSNqrrKUhODpZU-Ip8eZI-TBdVx3GrNef9pEK0RK=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDD9sGX1wE&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDD9sGX1wE!2e10!4m2!3m1!1s0x390fc5024c64932b:0xa047f26079d7cae7"
+                },
+                {
+                    "name": "places/ChIJK5NkTALFDzkR58rXeWDyR6A/photos/AeeoHcKYyavuWtcCBOrdq9ZI-X5JLVx22PjFZfGHxbZjtEJ77VI8CfaTrAGkNVmsyMwKiUexmrBll1xaXKgVHm-60-JfHEnJDXzXlpMPCQfW313lKlLJVfWXk1Nq417QugM2DJFrOzMCTJkhImCW7FbWkbgoPXUC1IpM8KKvEKOaM28gKzPI14sOfQU_QsI3UrMf7xFHwl6lsiQ1jxivrMX3Z0bw4f6nvEPa2nZoBSxCWQRxJMd2Uhc_qzyq41GMobkO9iYbMti3yu6YiFDRjfGP3o_eWCDEJV-gDkGkX5sl--o3_LJBylXoBD_aG2JbYh_IMcUw3EYRSiUoZxCfXihksxyd2TWRHjvHN8WYkr5Uh2gKnInH1j-q4KTuYzIIDQ95mVfMTkW4ZZUtMhjK5lzesax8kh-8ZydL874oVyKjXhwWdHwq",
+                    "widthPx": 3600,
+                    "heightPx": 4800,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Amit Hooda",
+                            "uri": "https://maps.google.com/maps/contrib/107745100275310285946",
+                            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocId7OmuvKsG1gc8S66_7tZx3zlcCb9tJHWLDkgnB0jt8WvjUA=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID-t4bc1wE&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID-t4bc1wE!2e10!4m2!3m1!1s0x390fc5024c64932b:0xa047f26079d7cae7"
+                },
+                {
+                    "name": "places/ChIJK5NkTALFDzkR58rXeWDyR6A/photos/AeeoHcIOGdgO69iU39tj1SoI-pWAQC8Rhm9hGGJhDQeSafnYt0G-eq3jc-0H79woYqykAqFM-cz6EROmDQWZbjd8qRjG_AgfJe3kTlSZT1XHZb6fvlmD9HNSV91wGnpt7qtI6FNWF78w1qtioDahWHp7XLZJKQQHMS7PRV_JAL9xP-UWyZtDUs79GXMijfhSmDeh7iScR6yG3x6kj9RUIxbwVHUSEOvYGSfB6Fg7MFZ7P3UHtfuZaOo2QDtaQV-g8NwOly_F8hM6NTBp_SWwl_WIg8iolwHDQC-IzEBWlaH7JYvdVGPSjXmhggTTcNkihrj1EpqHDvQJ7Bvnh3AnUQNEf-bDXENzkVfSHS6AfMSM_wxJVdlfe9GaFUMuK_1SOV4Qpt5_3GYAjgLRS1NtrYK36DG6VN_6zWsSaCemi8kX8EI",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Jaswant Singh",
+                            "uri": "https://maps.google.com/maps/contrib/105420759966919554865",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWT2uB_k98irSNqrrKUhODpZU-Ip8eZI-TBdVx3GrNef9pEK0RK=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDD9sGXNw&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDD9sGXNw!2e10!4m2!3m1!1s0x390fc5024c64932b:0xa047f26079d7cae7"
+                },
+                {
+                    "name": "places/ChIJK5NkTALFDzkR58rXeWDyR6A/photos/AeeoHcL_4xRjAEwgmWyW2PYe5Yc73fjQfqE0x5DXRWg-V2wQVeMC8H0mJ8oodo81qf0fd--r98l3yXVuACzt4cC0jkdX_UdPmil2tQPjjCcmtPAe3JJoa-AP4U4BuOipZ2GohWHOyEIhEysEL8ldn3Y2PDUwdWXHQlJzRngHMUaFi1UmAWGii2YH2QGCdweQjDEvPKTZTk3EvhtUs12E5iMTyMcUwlz9IqcoGs9kHVgNYl-7h0yN9Rp9yfNywNrvsKz6WM0pF11Ay9gmV-KsGKInBIIg5vAOj_pI0UYOR1UAyOLhE6VKHyeeepdbXDoxur37vbOid-e0CgC3DfubmqtNWeB6MUyqxosZ55Nw2wjyUiQP8SLl2uatZw4PW6wRLDM6wbqccWAb5NrBDFBMNZa7xQ3B_rw3S6BBFlaaZdq9ZW4Ose0",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Jaswant Singh",
+                            "uri": "https://maps.google.com/maps/contrib/105420759966919554865",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWT2uB_k98irSNqrrKUhODpZU-Ip8eZI-TBdVx3GrNef9pEK0RK=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDD9sGXpwE&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDD9sGXpwE!2e10!4m2!3m1!1s0x390fc5024c64932b:0xa047f26079d7cae7"
+                },
+                {
+                    "name": "places/ChIJK5NkTALFDzkR58rXeWDyR6A/photos/AeeoHcLyNM1XCFre6VyxxD368Qnuv-TQgTb9DtY9zpyHdPikjUIGaJ3bR1d-g8TqKB39yaBb7JqxE2NOnAfzqp5k428M5MIvZRtNAnc-AnZvTkjF9kRfZbQZkP4AT6pq1fdyT_kV_QVgeGKq1zxQ26f0yZJwBZEld4NncYY-P7yalcGaJLyWZrObqXTY_mYgCJcbzf2YOHzksINdxClrNeWTxVOeN15AWZNFhle51JkLPuLqZIWUEbjzQsZDuBrJv1OjU4FhE-ctcFXFGWVWqv_OL8Pju6U97AJxSQfi-WngP2YNHOFQ2hIwcbKRddEoeRg5UiKIVpZlD9kRUeICG_s17rRxbM3CYAYukGkrfzGYkeTcTSteEUK3Ad7RLqWooVkjM1QG4H2CssUj_9PMXKZWTFaEQy8Y9RcrmA9RJSkBchoKFA",
+                    "widthPx": 3120,
+                    "heightPx": 4160,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Gurpreet Singh",
+                            "uri": "https://maps.google.com/maps/contrib/105934352133338306179",
+                            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ-I7_ehPTLdHrcakRkpYyCaDUiASo4Krg2EwSfNMRoFcKsrQ=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDxjZniMQ&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDxjZniMQ!2e10!4m2!3m1!1s0x390fc5024c64932b:0xa047f26079d7cae7"
+                },
+                {
+                    "name": "places/ChIJK5NkTALFDzkR58rXeWDyR6A/photos/AeeoHcKYtRXGbWs-0k3t-0FWdAiUhfi56r7VSYkgT1ZHtAjHOioU9PpvOMqWzLkyRMgSyuHYa4kPI1XUUW3g8D9WsZAEf8hfR_V7GdWgXKjmu-1b8RsQQTpPCt7weH8RgN8qq72PuUZ3jcywXQWkS422IrBDGYwBISewvm8OskEf9ihjHAqi1Jvnra8JMLFXcbdo7-X6m0_IrWJlV4iqhRer1BpdkOjvALCO806N1Uj_UyzswFAA2qU4tiEeSq88g34FwUbzzLVC3MQMptoe5bs_5zYZ7WCQJRtfFZY_b6oTtGPztUXs6nQ62ZN6pFbpMkAiRxY32LjG735f72qPwWigWoHOIx-SlVtS89x0SgGPF3phHt66bNFb87CA7_FRIO1N1Y6mCnw2l9lYSbpBwIam6bxR5pqX9_MsCdMUSG-GPc0",
+                    "widthPx": 3600,
+                    "heightPx": 4800,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Amit Hooda",
+                            "uri": "https://maps.google.com/maps/contrib/107745100275310285946",
+                            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocId7OmuvKsG1gc8S66_7tZx3zlcCb9tJHWLDkgnB0jt8WvjUA=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID-t4bcVw&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID-t4bcVw!2e10!4m2!3m1!1s0x390fc5024c64932b:0xa047f26079d7cae7"
+                },
+                {
+                    "name": "places/ChIJK5NkTALFDzkR58rXeWDyR6A/photos/AeeoHcLj9PoFu-0N7GyS0DreHNjEagg_bL4c1bKM7bU3iU-wq-rhJRWOsrh9Va_4pLuoQ4hCFFOU-z79VgAYHHfLYVqa-aMJl4tFCwLpHeKD9_1vpzddZfEVs7pAZAqD_QuUVJP759VkqAXKioFlrEX5eGqYcWaTruL8l5FPgGoSCOQWxtoV2iGmgvLWj_BMzLpuLUu0HFPoje0NPm2ilgcOpNsRWEyh3rQzzoJ3HGwi076fcd_MlY2ABr8q58AxThHGFcuuDUyp9xT0LwYh6tDAkNXYHwAx8vkpBVmASBC4DCshyEFwy-bkFgoSWpbQ5dvoAOxq9hWQxQuND__ua6MT1xuZ4Q8aL4aoyqD7ITkQnBYC-JrWYK18f8HXUSRO7gwuM8ZWSkXExr-5y5BywcGeTFHFU3ZDhbXQksJqwQ_BHaERvPg2",
+                    "widthPx": 3456,
+                    "heightPx": 4608,
+                    "authorAttributions": [
+                        {
+                            "displayName": "sayadboksha",
+                            "uri": "https://maps.google.com/maps/contrib/104625175731373997717",
+                            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL88R_DWo8v8e_2OVnZs0rGmk5Kb_5z7Rnqs6UMYgQ3jnPALw=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID0n8Oe0QE&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID0n8Oe0QE!2e10!4m2!3m1!1s0x390fc5024c64932b:0xa047f26079d7cae7"
+                },
+                {
+                    "name": "places/ChIJK5NkTALFDzkR58rXeWDyR6A/photos/AeeoHcIGg3ojViXRVc4-gXt5p__sqgmIpkutGOh83BTFA1CtfvGxNhtD4HZaottQw-90VWjg2bm8B1gGwtE0s5nnjh3DFoDJ6ckFCkI6F4QKyhZwVBj6A_9HR9sObn8YU7Em540-TF4ZSOarhPp8ZfhluTURMWZCbwo09aJYfyG6-8L3NSBhz0hK9CWA_h6wKF8iZPu20UoeQaRHo2_zbNDI_Z4326vxQXltP5S28WRUtLfx68xCGJbYPF6phxcSu-seoCemJ06jQ7qdeqQMg-qX2doyLCWitnhUHm4VI9F-WoLfaZR1sAyuOrHQNuM_N2UBxa88J3s4DJ4d__Ewhht6KOewgbJJuL3YH9JQSFZKGJZnVfP20I___pjNJFNKo6MGIAMP6cGV6rEISEW7fTWW8A5brFWaEAFyFdOO6zQsUNxXjA",
+                    "widthPx": 4000,
+                    "heightPx": 1824,
+                    "authorAttributions": [
+                        {
+                            "displayName": "AMIT SHARMA",
+                            "uri": "https://maps.google.com/maps/contrib/108380285361954167699",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVdyXBH7LCB_2YN94fheb6uS_nC2WqJ_BA3YnSNQvxCQerzsiPBwg=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICy5MboUA&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICy5MboUA!2e10!4m2!3m1!1s0x390fc5024c64932b:0xa047f26079d7cae7"
+                },
+                {
+                    "name": "places/ChIJK5NkTALFDzkR58rXeWDyR6A/photos/AeeoHcJZaP-NmdXEj9pcKqFfR7yX_lokPusj9bG5fTHE_3ixWjAGXABmCM7gFcNRG3IsCbZPnNQ61UoR8boDJVL87G6dfmgzzX46rPLseEBH9N3L345pnYzfobk93B3XIgREs2co-6gB0jpBplCYDjob0-gM0achAsW43z3qyw1v6PANMvblHFZ1TXp-rb36Nr_Ab8TKs8v8AVVqJWUNGsGqvKL9bJHYVtNMEGPaOlZWUM-tFiK3GfMTnCvfuPQBFKFup3li-B0xN5yxL5ONurb4rvP3CYZEr4P0kymsi-LLsJwdww",
+                    "widthPx": 4800,
+                    "heightPx": 3200,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Highway Services, BPCL Petrol Pump",
+                            "uri": "https://maps.google.com/maps/contrib/111202713968656929289",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWCU9XxR4CVLiBddbqUbwVVvIbM1HoOmNfqjp82rIcvMlXebFKz=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipOFJ7NXdperB5qAoQIEiuttaDawPNVhDUroryWe&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipOFJ7NXdperB5qAoQIEiuttaDawPNVhDUroryWe!2e10!4m2!3m1!1s0x390fc5024c64932b:0xa047f26079d7cae7"
+                }
+            ]
+        },
+        {
+            "formattedAddress": "PP3H+2R4, Sector 61, Sahibzada Ajit Singh Nagar, Chandigarh, Punjab 160062, India",
+            "displayName": {
+                "text": "Powerbank Charging Station",
+                "languageCode": "en"
+            },
+            "photos": [
+                {
+                    "name": "places/ChIJiQkQ_IHvDzkRUQclzN7_hRM/photos/AeeoHcLUgUPcJktzdSBLV88jD1Q-sDe6eb_90K2v2jNrAl0n1hzBrz1rmUwNLzevlzi3o7Sj98KzTw2EjofOPfdZoWFZhMnXvHWnjIfhDqDiB_CxZ5je6L5xNNzHmZuxD3okOpXQNIjcIG3jp0uwt4yTIWgvgAps9HNwfjzqU_8lq_ZbbP0THJFlIOmFjTthHb7BZ6B0HXD6EMkVaqHQ-bXh1elhwazXP1NihwsAUBSUo4vCfI0UA2m9VKPNUeEUSZNYGMujCSNLvpqwGbJoByZeFxHcEYwezcjv6UJuYlv_qNkTrINiA41oa5JeX58-O6eI5l_om1kE8Jol2qb3o8xJBm3ew77n30ev1jfscaTJxHaEQXvSFp9g1-PNVfWXGjzoSZJDkP-HidlceOY_-5R0cKUM2vVZT3fDmAcrxpl5izV9vCQ",
+                    "widthPx": 488,
+                    "heightPx": 1040,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Nadia D'souza",
+                            "uri": "https://maps.google.com/maps/contrib/115983112016997574809",
+                            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIp0TIw00dmwx1K5DD3aLM90qu5jK8yQX_uf-e8vw3a-mFcew=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgID-yfqe_gE&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgID-yfqe_gE!2e10!4m2!3m1!1s0x390fef81fc100989:0x1385ffdecc250751"
+                }
+            ],
+            "evChargeOptions": {
+                "connectorCount": 1,
+                "connectorAggregation": [
+                    {
+                        "type": "EV_CONNECTOR_TYPE_CCS_COMBO_2",
+                        "maxChargeRateKw": 50,
+                        "count": 1
+                    }
+                ]
+            }
+        },
+        {
+            "formattedAddress": "PR33+J2M, Industrial Area Phase I, Chandigarh, 160002, India",
+            "displayName": {
+                "text": "Electric Vehicle Charging Station",
+                "languageCode": "en"
+            },
+            "photos": [
+                {
+                    "name": "places/ChIJrS0gve3tDzkRjIxk2v1Hqi0/photos/AeeoHcIASuzKrWN1CvKeNKqurfB-5TuKu5XYne6eiqErAeRAH6hZ3HBDZtclV8EV-XEZ5gBkKNJqiYhfvU9InETKJLLFaSVyow4YnKh0kQ3i9-7wK8l10HYe46nZuiORJnIhlxEQbCoSud1z9xDYwxKRDDUVlNdyXbqSmUtvw0OJRMDU9Ns8IIJ0AglniupOAb955iV9suTp7iSLwwQwqZI1joN-y9BSnhPbNjxfBw73iW28PLh_SCCeIOT0hK4-Y6w_-pQq9WApSiiMuRQwaSyyOXr3x4NFwemnHqoZZztPc3kX8sfLAIHxHIlp9hQYC_xJsYlR8OKeoHPhtt2tsRMT0KB_ZDjUD05-khteqrca7JecWBdOiQ-IEFV6MEuShBlD53gbYf_RISFnhSB-GsCgTayxJqOfmvtTjJyVfnsUtPVuN2Tt",
+                    "widthPx": 1080,
+                    "heightPx": 1920,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Abhishek Garg",
+                            "uri": "https://maps.google.com/maps/contrib/117546767447419898533",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV8TYQ_xRHPbjRtAb8oxaPUsgejtmZ3mBgsf_arUBBg4kRZvKQliA=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICOt5S2-wE&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICOt5S2-wE!2e10!4m2!3m1!1s0x390fededbd202dad:0x2daa47fdda648c8c"
+                },
+                {
+                    "name": "places/ChIJrS0gve3tDzkRjIxk2v1Hqi0/photos/AeeoHcI-QUKhJxh2XBrjiC2QBO3ABHYuu2OVztgv8h0js2FOqh4wbWjeWsqgN4O8PuJ-JjcVwVI6K_xfyngFb_lWO0rd677xxSDAv_PMARh3AocxdG1IrAViLW-99NjT10z1HZ9dUj7O56JOyH2eCIzq4B9M75-tNMFoGPT1dTiX4wsnVQePJKe0faYesHJML84aDXVMJwc8yUDSjcD7gxjiPv7eokhCMYPX797rW9zbXyaYSQUOEQ4HPNWY7nFAtRHo0dk6krekOhL4sPz_JSHylRUbO5g6XHP3pO8jCpT8fvkKPr-YD7ZAekaBEU5u66Qr-o4oNgsO8blWk9cK1hWq0GGxheDsLWdpZBRuM3ZaywOn_YG0-sps3DLhk3hBLUcd-eDjoAXmgJABc2AiowZM932LogoIigsGc8ajOGRzssTLNgWY",
+                    "widthPx": 1920,
+                    "heightPx": 1080,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Abhishek Garg",
+                            "uri": "https://maps.google.com/maps/contrib/117546767447419898533",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV8TYQ_xRHPbjRtAb8oxaPUsgejtmZ3mBgsf_arUBBg4kRZvKQliA=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICOt5SenwE&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICOt5SenwE!2e10!4m2!3m1!1s0x390fededbd202dad:0x2daa47fdda648c8c"
+                },
+                {
+                    "name": "places/ChIJrS0gve3tDzkRjIxk2v1Hqi0/photos/AeeoHcJQaZZNaWITZxvz8V8-_lLwXdfUbh19z7HGwqqPbGVlXX17W4ZDWlDdoOiTDI4xVeMRjjiT_TmzSLwBz7Od2NMSdn8ftiYlole4LDRYdDWgQpZd2WoDGqy9m9Aw4gBRCs9bBSVY_9HbEcSjysL7e1t_6XSBqE2uHQaUf-eV3GZIOZhK3IMEuwuvSN88hGzRSRvo9d95hQmNHzCat16h29o7MbuB59LHMWK2A1XLHFPiVMSjQRYl1wbVho6tiV3BlWn00DluJMT1F0pa4jZcqSmb3tzHH83hDHock-s8PawZP8QgUHNqkTt-XUSNDckuQJvLdQxfw5GGAa3JPnATGzvgHSK9YC426aApllfm6ERNOK0l7Magr8rky3Na_6Wfg0G_APrSFkhdF330myrjy4LWfgscLTslzY5kxmeU5MuG3w",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Vipul Kumar",
+                            "uri": "https://maps.google.com/maps/contrib/115527345534746635992",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWlcUGPaXpIkmr-MbeUd1j0T0u_rI6DO7CjMdSQ4FeY8hbdSBfwkQ=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDRgu-pTA&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDRgu-pTA!2e10!4m2!3m1!1s0x390fededbd202dad:0x2daa47fdda648c8c"
+                },
+                {
+                    "name": "places/ChIJrS0gve3tDzkRjIxk2v1Hqi0/photos/AeeoHcIxW6J70ARA9I3_tKAYL7dEfQjNYBWw-LZxikd7r1NvHhpUxKJyTH7S2KRwCrpx82j75F6pptqCSsLHQvq_YAi8fU4fbv-zn_Yh1aijZk7W4q4xJNJbobLpoqFOYmXj2dbPPvhv2WxhyKpmMjTsmbs3588O5ujVFDNM9tDJWdns1AH0ZbHpWaTubOUkZGlIcyhbAR5ShzO2WapoWhdjiH-5cZ7sUImRKw_68MV_C72wPqUeextIbTpTopVjYLULk1D7gXZdJfo4qmNAPJZsOX7dsrNOPvuxF8B5ENXDr3ZJixtJDD4eOOuW8Hmzazn4TdGzC6PQ34VHuYMzo4zJ1ucYkT7uZZtGAxd0VBDDRxW7YtuXI9GWF2ZwMmE3FoB2Nb92tnv8RRQaWAv1txAXSTimLYJgKtLRamCVe8p8EzcO1qsr",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Vipul Kumar",
+                            "uri": "https://maps.google.com/maps/contrib/115527345534746635992",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWlcUGPaXpIkmr-MbeUd1j0T0u_rI6DO7CjMdSQ4FeY8hbdSBfwkQ=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDRgu-JhgE&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDRgu-JhgE!2e10!4m2!3m1!1s0x390fededbd202dad:0x2daa47fdda648c8c"
+                },
+                {
+                    "name": "places/ChIJrS0gve3tDzkRjIxk2v1Hqi0/photos/AeeoHcK5Boh_8ckw21poZ_CcBB6OU9_aWutKC2ALvZkUTBJBDJXy7KREe1Be08qiqxehPtB5CY1zGdLrtWpytImnEDNhby-yPsu9AxcK-FxEGXsLXOey7b9RT3eGLyJr4oz2kqYrCAh3S0zrgdIaB9LC8ZKZ9RnsNBV8Uo0EiHw0Ci0NKmvrHAmFbfXMerWDWrQm-kDVgCMGVGVYWf__BX7MPKZYyBI-ntUQDmA-NJqFzoyHXlYnih_xCDmNZ-1zdCOBbg5FlhZHCDOA055HKXo2RA6oQft9c9ZM_Cx9wwL51xq0jB1ZxmhH3kcKgl9KkidU-_HAFLBl8Vh8iiwJLGbGjPpcObWlPyS_Vtz-oxORGl7IQguqoAVC5Xi6DWfvlyZoOOFCQGrFMW16b1h71zAsLni_J74PveTObzlUl-U_GFikoQ",
+                    "widthPx": 1920,
+                    "heightPx": 1080,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Abhishek Garg",
+                            "uri": "https://maps.google.com/maps/contrib/117546767447419898533",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV8TYQ_xRHPbjRtAb8oxaPUsgejtmZ3mBgsf_arUBBg4kRZvKQliA=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICOt5TedA&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICOt5TedA!2e10!4m2!3m1!1s0x390fededbd202dad:0x2daa47fdda648c8c"
+                },
+                {
+                    "name": "places/ChIJrS0gve3tDzkRjIxk2v1Hqi0/photos/AeeoHcIWAfH9_qOWrjyw8Du4iMAJEEsCj71hL9acqlAUlM2GoiWThS4ppyJpZhMVUbFCIfXkTFxYDni62VPIBxHN3WLlCbYXmv-WbfwDResGOxG66zGRxQvpToMhnngrUFQyZW2y2JC5RR7cqCccp5U3frStdOcazjvPzlcA_hLiHrX33_I530HJBAy_aWYNh8qYPpBwuJ4vx7l4SaAtkdCvvNska2wPYfMny5TtyiWPRiUQpNv7qXugHgziRdEE1F1EOt1CswHJzIrjDZjMPkO44V9RyTRhaxGWgxpTNcH5zuswM4pE7jgw7LT6dLFf-8nD07Vs9DMDgADRgCi_DmpHeD4-vUmukyotDFtn2RiOLeIO5sKwAz30489zommY2tsM4TaJ3PaprjfH9_42TMTJzmx_-E3rczIamqH4drGbYyU",
+                    "widthPx": 4032,
+                    "heightPx": 3024,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Ashwani Kumar",
+                            "uri": "https://maps.google.com/maps/contrib/108377493953315838231",
+                            "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUTMEcA1C4luh88UK-rgDpKMnCceFOcSuORDttAvmbUHCKDgVV1oQ=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgIDRz5vHag&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgIDRz5vHag!2e10!4m2!3m1!1s0x390fededbd202dad:0x2daa47fdda648c8c"
+                }
+            ],
+            "evChargeOptions": {
+                "connectorCount": 2,
+                "connectorAggregation": [
+                    {
+                        "type": "EV_CONNECTOR_TYPE_CHADEMO",
+                        "maxChargeRateKw": 50,
+                        "count": 1
+                    },
+                    {
+                        "type": "EV_CONNECTOR_TYPE_OTHER",
+                        "maxChargeRateKw": 43,
+                        "count": 1
+                    }
+                ]
+            }
+        },
+        {
+            "formattedAddress": "Ground Floor, Patiala Rd, near Radisson, Zirakpur, Nabha Sahib, Punjab 140603, India",
+            "displayName": {
+                "text": "Jio-bp pulse",
+                "languageCode": "en"
+            },
+            "photos": [
+                {
+                    "name": "places/ChIJdUCSecvrDzkR_B-yiMlW7to/photos/AeeoHcKxlrxm1mvSHhlPpAmwDLJVDqbUUtPbvSzHGvLn0qdxHXHEN1iLqPoB5ZDoOdDifqBHhSoxFgnLm1cNsCus6O1amEeiydcj1JgDIzKLP10YHClXTUpvPx3r7tHTGoYotn443z4FpHoJsqON8V-UL3wR68PznjYIAmE3Qt3wQsc80T1nERdpi_dOEZM8Rpl-cuxdr9n7Cp0_g3TWXVM3KchqYA8DvzPk2Lm2AVh0XxecRRBdqqZeq86Yjvm_-1AAls6XHHoZcrxwsfADW0zK-BfHf8cQ9IAgCxLX_JwfO9NbgQ",
+                    "widthPx": 992,
+                    "heightPx": 558,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Jio-bp pulse",
+                            "uri": "https://maps.google.com/maps/contrib/116341737735977493477",
+                            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKG2CqqMZaMsJ-yvhlwb8KT5lSnX-k41I4TwcZKtQzHuJ02aw=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipM4I7p6-h9G04eUo4qkHLah0lQFm2qMY1b8Lrmo&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipM4I7p6-h9G04eUo4qkHLah0lQFm2qMY1b8Lrmo!2e10!4m2!3m1!1s0x390febcb79924075:0xdaee56c988b21ffc"
+                }
+            ]
+        },
+        {
+            "formattedAddress": "PQ2Q+4RF Audi Chandigarh Sales & Services, Industrial Area Phase II, Chandigarh, 160002, India",
+            "displayName": {
+                "text": "Tata Power Charging Station",
+                "languageCode": "en"
+            },
+            "photos": [
+                {
+                    "name": "places/ChIJb73BuS3tDzkRoEEVBGMjRdU/photos/AeeoHcJkP74c5pQJM55BQ1zbCSJbCaATumYYBWznYKFzBXIU42L39OtXxz8NCo06ygZU2dIwYnJgU0ghgPY5NloyUyy5NC4_qDlBR2tjioH54es30KtcaTLR67Mc8h955CBEIFo7I-aZ2E2p-ERjj9d-fETXPVdD5-WmLDHSbcqgRepklr6YexXhDr9Wx7C_q6Y3UMD-KBvv5kvX1sycxiGIvLb2JIkekqkxEDCkgcUEgw8qlcIFjAVlM0Dk2Akb0Z-yLQYGtY4t7lYvJFPmipJPKq7iBlXt10PpQtE48u7qmjWuXuFAxQF60xbNl_u3DkJo9xiMDeN0mgBppBepcj_FZGB1SIr3NGP4A6Ld6H8rs4_u62GnTqdWFmPsraqfyjmxVT8_a9ph1MhAisZtmRQEbDPLPdeh7jiy8fHRc6WC7Hmuig",
+                    "widthPx": 1080,
+                    "heightPx": 1920,
+                    "authorAttributions": [
+                        {
+                            "displayName": "AMITESH MISHRA",
+                            "uri": "https://maps.google.com/maps/contrib/110427387030186844256",
+                            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKpj7D4TIY9yRmwP4ph5rfEuRG2PiSWz7v6zqhy7_PWF28lbA=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICetruvSQ&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICetruvSQ!2e10!4m2!3m1!1s0x390fed2db9c1bd6f:0xd5452363041541a0"
+                },
+                {
+                    "name": "places/ChIJb73BuS3tDzkRoEEVBGMjRdU/photos/AeeoHcKb214OCT3JZ5UF20gelYWwq1FZ15ols_bYSYzUYYGxNmFTq_wY_va3bW2fQTKZUG8B1ootuIrwXqRmWFcyHdsVBdoc402vXWTBtvSHcciiESFBBtrXTao4nLKj3mdI88nkf7Pm6e10EnhndLajEO9g2UXE_0SkrT5FVHQhtKpJ9hNa4UypYdzlbOT1n5QzZMAwR6JMLatTeqwMvl4jxfCNz9gSKaEFbDeCopEIRz9-JStEecRjp9vh9kMaVmUPkckJOISPjP2S1LdWjAU7wouCb29BYEj94K5Mmx_ErnP1Ks8H1Rpf9bLyQ-vR_VAo3GZRUMaw7fd4bybCssqq3dYTm0Q_X6MVN_gbVPbYri96vdA8sSkUo-f-Afv7w_Bl7UlKtr8fc-uDIQvPYZ72fUs-Dr09AwTQPPJCwc3bg3Rfkg",
+                    "widthPx": 1920,
+                    "heightPx": 1080,
+                    "authorAttributions": [
+                        {
+                            "displayName": "AMITESH MISHRA",
+                            "uri": "https://maps.google.com/maps/contrib/110427387030186844256",
+                            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKpj7D4TIY9yRmwP4ph5rfEuRG2PiSWz7v6zqhy7_PWF28lbA=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICevvT4bA&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICevvT4bA!2e10!4m2!3m1!1s0x390fed2db9c1bd6f:0xd5452363041541a0"
+                }
+            ],
+            "evChargeOptions": {
+                "connectorCount": 2,
+                "connectorAggregation": [
+                    {
+                        "type": "EV_CONNECTOR_TYPE_CCS_COMBO_2",
+                        "maxChargeRateKw": 90,
+                        "count": 2,
+                        "availableCount": 1,
+                        "outOfServiceCount": 0,
+                        "availabilityLastUpdateTime": "2025-04-11T07:40:00Z"
+                    }
+                ]
+            }
+        },
+        {
+            "formattedAddress": "9QCX+89M, National Highway 1, near Jaggi Petrol Pump, Dholkot, Ambala, Ambala Cantt, Haryana 133001, India",
+            "displayName": {
+                "text": "Electric Vehicle Charging Station",
+                "languageCode": "en"
+            },
+            "photos": [
+                {
+                    "name": "places/ChIJm4fxHgDJDzkRzYmhhRIVieE/photos/AeeoHcLcwKYSQybFwc5GSOBzZi73WYK4UM8G_ZYFFaYSuvqP6vJPOG1eB3-P4eAZOJYfnm8tvYF9vUJGjLIyooApqSSwhmuZKQnIKMcd2sGtS7FMBAwqI-NrDC3poc594CnCtoC7SI_Ad4yuRDVMUC5DDN2VzzUgOa7k3oM3I7h_Lfj0cCbuiuA_K9Kx-HiR1yrAnsFawUKrK2m0D6HA8hcDF9KQppLyXNmf6bvjECuCMlcxOeuc8T1fpwM0WHCvc0hgwkFv0N9mvc5oGNS4waB8fmRTR2lmzlA3xYOMRLbpPpckpmdShwQxcJwLk5PO-eKXrxrjhlp1Fq2IvEC_KaSL9M05bnejCw3l31vaV5jkOnWVj1QSCF21LgvD6_w5sCDWfb-TIKjITpXcDBxE4kOjXkBNVUNf7Czi0j9-jvNQm43rjyfk",
+                    "widthPx": 3840,
+                    "heightPx": 2160,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Aditya Uppal",
+                            "uri": "https://maps.google.com/maps/contrib/116941249226246721497",
+                            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJrJ_aP_DtWuY68LkLbbLvCd9AoUIUuzlHmONf4h1YiEeV1jA=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICe6MWClAE&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICe6MWClAE!2e10!4m2!3m1!1s0x390fc9001ef1879b:0xe189151285a189cd"
+                },
+                {
+                    "name": "places/ChIJm4fxHgDJDzkRzYmhhRIVieE/photos/AeeoHcK4WUbIas-eO4Aul2tWrtLFYgx1-qQSQGu7LCM0tWasaxdN9vbQt5oZL5Z9NCEN--uF-dd_8LdWghrVFayBL6fOR91XKLutEWHGWnOE5cnCD4H3GVIRsB6VEdSPTXAgGxY9T_n3quVsrwA1murEON6YDq9PH0_15crOjFguMzmadMg9nA5ej7jb2Zs1z2EZ-lYa7BZ14Hcwhrw0nr9gZ7NnBrLWEBuevA4lMY9k2YyT9ebcML0wiLnpKf6VBwn4ng_DPA3mmJnHXhs0vCSCycE-ktWs7bjAr7vZogoJpPyD8h-st4D3IYOZB1UUtOmEUGYfO0vFPLHmE1HZn5lgeEQXTtahLKhe3SG3sFCc1ADtJvg229jQw5XG8p2ziQbY1Q_E8-chcX3_3q9REzDaOvbo-tFC7loShG-MoN80_Yqypw5c",
+                    "widthPx": 2160,
+                    "heightPx": 3840,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Aditya Uppal",
+                            "uri": "https://maps.google.com/maps/contrib/116941249226246721497",
+                            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJrJ_aP_DtWuY68LkLbbLvCd9AoUIUuzlHmONf4h1YiEeV1jA=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICe6IXiwAE&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICe6IXiwAE!2e10!4m2!3m1!1s0x390fc9001ef1879b:0xe189151285a189cd"
+                },
+                {
+                    "name": "places/ChIJm4fxHgDJDzkRzYmhhRIVieE/photos/AeeoHcJofjTZz2KgEoId8_PgNJLr2TZV3ktvGBQmOv6UJpQApNanUXUEK2_AhGN06d1mD5AaYkUFYsxyhXjfff1fjvbnGEMmgkrZl49fXcTqZFWnHK56L3LlWAOCv2M1pn_Yx05abNIyfFQuosl6Kv07X-bQsIiRJPf4VXMusdbWQDYnAxqrCK4rsvy6hAAV4TQTjWyDpH9xxIN6mRiSIzoYwwW-1aEfbSZWsUUuwuHCP1sWUqO_BC4hbfdjbioB7EqthUTGfBYlvdNywCgULDvhdgYtoSLZ5NggWMJ2jBbiKgSBC90-CuwHWc0AQWmZtLiClkMQd-jOy95u_1EygWdsrGUr45ZXNWJBuOZVeZAv39WF1x3oTwQDdatWT1XkpMimcLRMoltyC0ym3patx0QKOQVHZsQBjJQ44lZ1V0Elo3VO_g",
+                    "widthPx": 3840,
+                    "heightPx": 2160,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Aditya Uppal",
+                            "uri": "https://maps.google.com/maps/contrib/116941249226246721497",
+                            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJrJ_aP_DtWuY68LkLbbLvCd9AoUIUuzlHmONf4h1YiEeV1jA=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICe6IWpZw&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICe6IWpZw!2e10!4m2!3m1!1s0x390fc9001ef1879b:0xe189151285a189cd"
+                },
+                {
+                    "name": "places/ChIJm4fxHgDJDzkRzYmhhRIVieE/photos/AeeoHcL0zKIMFQw4266Qi4zOWxfMAK1J6TpEvZVJSAa-asc_Oz-gy6mBC8AC22bserER-pDmS_11PgdenTmXB94fdwv3gMPmwiync9qffekFWhX8Hbxt3255eaRuygChnF-QSOUO7bj5NG_tglSq2fzWLd4wx7fRZIqYWJ4aOuOvn4FxrLPJIMVptFYWLopNFiuXxVTtPZT4DKTggjUzb68kcG6hLl4a9M4eI6_3wiJ2vs5F1XjgKcSU3_hc_TWjo6MQWMFhjDDWe-F8QJdONLisiLODfI9Z0llwE2LFNgd9L1Y0lwYCiLLd2-J6DvU9YyuXHc-1zcre7x3M9ZtoFWdw3jROX_gfsw3092Y_L6YiEuwCEgQKc_mgHD0d-apDkGgeNha8kMun7I0Yo5B-sq5_B_i4JuA6EFRDJjN2XeZOC2uj21o",
+                    "widthPx": 3456,
+                    "heightPx": 4608,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Aditya Uppal",
+                            "uri": "https://maps.google.com/maps/contrib/116941249226246721497",
+                            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJrJ_aP_DtWuY68LkLbbLvCd9AoUIUuzlHmONf4h1YiEeV1jA=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sCIHM0ogKEICAgICe6KWxzQE&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sCIHM0ogKEICAgICe6KWxzQE!2e10!4m2!3m1!1s0x390fc9001ef1879b:0xe189151285a189cd"
+                }
+            ],
+            "evChargeOptions": {
+                "connectorCount": 6,
+                "connectorAggregation": [
+                    {
+                        "type": "EV_CONNECTOR_TYPE_OTHER",
+                        "maxChargeRateKw": 10,
+                        "count": 4
+                    },
+                    {
+                        "type": "EV_CONNECTOR_TYPE_CCS_COMBO_2",
+                        "maxChargeRateKw": 50,
+                        "count": 1
+                    },
+                    {
+                        "type": "EV_CONNECTOR_TYPE_TYPE_2",
+                        "maxChargeRateKw": 22,
+                        "count": 1
+                    }
+                ]
+            }
+        },
+        {
+            "formattedAddress": "City Centre, SM 8, Nada Sahib Rd, Sector 5, Panchkula, Judian, Haryana 134109, India",
+            "displayName": {
+                "text": "Jio-bp pulse",
+                "languageCode": "en"
+            },
+            "photos": [
+                {
+                    "name": "places/ChIJT7qxHyWTDzkRGqHirws-VtI/photos/AeeoHcINrKPqgIpVcIwt8tTfdcnbeiq1WlKI78j1fixPrfow5LRvHXBRbEDeLycFkXsd9xqZBV0mrlYGp5oLHVK6AQnnYwpUVRukaMVxC1sEeJKLP38CafVHQ3EZpuEc_OSX-Dm_gUhQJkNDwFRdG5A_ZioYNXL2skaMOZqbCm8NG6VLhZMYUXp3DcaD-Z5S3r4wileiB3_X47ZEGbPyM-lhpucmg_5j4xF_Tet-sxVMcfZMZIgSfBVJRSYokMbtxYffE5Png6EaZIGxlPIWyvkgpy-RABw-c5P-Fygs1WtyDwWrLA",
+                    "widthPx": 992,
+                    "heightPx": 558,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Jio-bp pulse",
+                            "uri": "https://maps.google.com/maps/contrib/102560904795743980108",
+                            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLipMyfGRCTdJ9H_CJeda8W4ynSJ95jgK0a5JExVMc-FZuK0A=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipMdYSj9cSMRbPu296AZyGU6CpBtgXgnjcSEILpU&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipMdYSj9cSMRbPu296AZyGU6CpBtgXgnjcSEILpU!2e10!4m2!3m1!1s0x390f93251fb1ba4f:0xd2563e0bafe2a11a"
+                }
+            ]
+        },
+        {
+            "formattedAddress": "Sales Office, OMAXE THE LAKE, PN 6, Kurali Chandigarh Rd, Apt, Mohali, Punjab 140901, India",
+            "displayName": {
+                "text": "Jio-bp pulse",
+                "languageCode": "en"
+            },
+            "photos": [
+                {
+                    "name": "places/ChIJtXk9n4XzDzkRVnU53FEpikA/photos/AeeoHcJDk6bLS-e-rnN_lC2ZzU8JQnMaAfwGp9eWaL4-bidy6PD4gI4NB0OYi9KrLvuaUASK7nCTX2OdI7kTfG8ppXe7nvQGeHMSiec4ILwGjoMj2zbKyzZHmArTxZKaXWtMHNitv4GB4GBL0MHLOgwdEAfDcKhgLPIXzHAWRe0VzEjumXS0vaRHRCodWN9To_QKWtz36H4jKD5KomvlUX-Gw9D3OQj9qlVXAuZ0HgctsEObOsgpYX0TWK5s8q8SFovxVaUBVi2lBJfMBOqPO8tT_hJt5ugAlwrW2D11IsXCyKUC9A",
+                    "widthPx": 992,
+                    "heightPx": 558,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Jio-bp pulse",
+                            "uri": "https://maps.google.com/maps/contrib/106445577957752329740",
+                            "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLTvIJYkxqko8BNGVotHmc5hnrNRo_dQw_Ff3ftoAJL6lgfOg=s100-p-k-no-mo"
+                        }
+                    ],
+                    "flagContentUri": "https://www.google.com/local/imagery/report/?cb_client=maps_api_places.places_api&image_key=!1e10!2sAF1QipO4FCVha9vSTNlHmf6CVC2QtijI5dXoU6D7Qi0E&hl=en-US",
+                    "googleMapsUri": "https://www.google.com/maps/place//data=!3m4!1e2!3m2!1sAF1QipO4FCVha9vSTNlHmf6CVC2QtijI5dXoU6D7Qi0E!2e10!4m2!3m1!1s0x390ff3859f3d79b5:0x408a2951dc397556"
+                }
+            ]
+        },
+        {
+            "formattedAddress": "R3R5+4M8, Mahiyan, Himachal Pradesh 173229, India",
+            "displayName": {
+                "text": "Zevpoint Charging Station",
+                "languageCode": "en"
+            },
+            "evChargeOptions": {
+                "connectorCount": 1,
+                "connectorAggregation": [
+                    {
+                        "type": "EV_CONNECTOR_TYPE_TYPE_2",
+                        "maxChargeRateKw": 22,
+                        "count": 1
+                    }
+                ]
+            }
+        }
+    ]
+}
