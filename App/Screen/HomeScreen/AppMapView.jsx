@@ -73,7 +73,7 @@ const styles = StyleSheet.create({
   locationButton: {
     position: "absolute",
     right:30,
-    bottom: 30,
+    bottom: 170,
     backgroundColor: "#fff",
     padding: 10,
     borderRadius: 30,
